@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">RecyclerView</string>
+
+
+    <string-array name="CountryNames">
+
+        <item> "Bangladesh"</item>
+        <item> "India"</item>
+        <item> "Pakistan"</item>
+        <item> "Bhutan"</item>
+        <item> Srilanka"</item>
+        <item> "Japan"</item>
+
+
+
+    </string-array>
+
+
+    <string-array name="CountryDetails">
+
+        <item> "Tap For More Details!"</item>
+        <item> "Tap For More Details!"</item>
+        <item> "Tap For More Details!"</item>
+        <item> "Tap For More Details!"</item>
+        <item> Tap For More Details!"</item>
+        <item> "Japan"</item>
+
+
+
+    </string-array>
+
+
+</resources>
